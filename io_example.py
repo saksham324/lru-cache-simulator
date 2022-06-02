@@ -78,7 +78,3 @@ def main(filename):
     in_file.close()
     return list_addresses
     
-# list_addresses = main("/Users/sakshamarora/cs51/hw7/Q1/long-trace.txt")
-# textfile = open("a_file.txt", "w")
-# for element in list_addresses:
-#     print(element)
