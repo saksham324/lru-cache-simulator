@@ -9,6 +9,8 @@ The program simulates four approaches to caching :
 * `4-way set associative `
 * `fully associative` 
   
+Disclaimer : This program was made as a class project for COSC 51 : Computer Architecture at Dartmouth College during Spring 2022. If you are currently enrolled in this class, or planning to be kindly refrain from using this repository in any way. [Link to the Dartmouth Honor Principle](https://student-affairs.dartmouth.edu/policy/academic-honor-principle)
+
 
 
 
